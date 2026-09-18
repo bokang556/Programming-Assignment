@@ -14,5 +14,5 @@
 -Message sending (max 250 chars)
 
 ## Refernces
-Farrell, J., 2022. Java Programming 9th ed. Cengage.
-Oracle, 2024. Java Documentation.[online] Available at: https//docs.oracle.com/en/java/javas/17/[Accessed 17 September 2026]
+-Farrell, J., 2022. Java Programming 9th ed. Cengage.
+-Oracle, 2024. Java Documentation.[online] Available at: https//docs.oracle.com/en/java/javas/17/[Accessed 17 September 2026]
